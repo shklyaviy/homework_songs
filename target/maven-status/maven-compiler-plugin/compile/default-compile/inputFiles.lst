@@ -1,0 +1,13 @@
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/dto/SongDTO.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/model/Artist.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/service/ArtistService.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/repository/SongRepository.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/service/SongService.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/repository/ArtistRepository.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/repository/SongRepositoryImpl.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/model/Song.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/controller/HealthController.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/controller/SongController.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/NshiHomeWorkApplication.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/repository/ArtistRepositoryImpl.java
+/Users/mtvey_zroycenko/IdeaProjects/homework/src/main/java/com/application/nshi_home_work/controller/ArtistController.java
